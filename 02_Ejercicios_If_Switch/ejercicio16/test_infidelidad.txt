@@ -1,0 +1,9 @@
+¿Tu pareja se muestra más distante contigo últimamente? (V/F)
+¿Pasa mucho tiempo con su teléfono móvil? (V/F)
+¿Evita el contacto visual contigo? (V/F)
+¿Ha cambiado su forma de vestir o arreglarse? (V/F)
+
+0-3: No hay indicios de infidelidad.
+4-6: Podría haber algunas señales.
+7-9: Hay una posibilidad moderada.
+10-12: Alto riesgo de infidelidad.
